@@ -1,0 +1,30 @@
+procedure
+oru function repeat cheyyan 
+pgm logic
+eg:-
+no argumrnt no return 
+fn()
+{
+echo "helloworld........"
+}
+
+
+fn
+fn
+fn
+
+
+no return with argument.
+eg:-
+fn()
+{
+echo $1
+}
+
+fn hello
+fn kmct
+fn ok......
+
+
+reyurn value in $?
+
